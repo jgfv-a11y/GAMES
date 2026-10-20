@@ -1,6 +1,0 @@
-{
-  "name": "VulkanCore Pro - Android Graphics & Shizuku Control Engine",
-  "description": "Advanced Android Graphics Pipeline Manager, Shizuku Shell Controller, Vulkan/OpenGL Switcher, Safety Watchdog & Complete Kotlin/Compose Project Generator.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
